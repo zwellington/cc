@@ -1,3 +1,5 @@
 {
-	"name": "ptest"
+	"name": "ptest",
+	"pth": "q.r",
+	"dir_path": "{{ cookiecutter.pth.replace('.', '/') }}"
 }
